@@ -456,6 +456,9 @@ To add more colour to your git command line:
 $ git config --global color.ui 1
 ```
 
+###Pibb  
+Add .pibb to the end of any Gist URL.
+
 # Sharing
 
 Share on [Twitter](https://twitter.com/intent/tweet?source=webclient&text=http%3A%2F%2Fgithub.com%2Ftiimgreen%2Fgithub-cheat-sheet%20-%20GitHub%20Cheat%20Sheet)
